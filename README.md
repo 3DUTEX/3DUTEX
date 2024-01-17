@@ -1,10 +1,12 @@
 ### Olá, Me chamo Eduardo 🔥
 
+## FullStack JS
+
 Tenho 18 anos e sou apaixonado por programação.
 
 ## Redes sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t3x.js/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eduardo-ferreira-2344892a2/)
 
 ## Status (2024)
 
@@ -29,13 +31,16 @@ Tenho 18 anos e sou apaixonado por programação.
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" />
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express JS" />
   <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
+    <img align="center" src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Redux JS" />
 </div>
 
 ## Tenho conhecimentos
 
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img align="center" src="	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img align="center" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<br/>
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" />
 <br/>
 </div>
